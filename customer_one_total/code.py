@@ -1,6 +1,5 @@
 # Task 1
-lovely_loveseat_description = "Stranger, if you passing meet me and desire to speak to me, why should you not speak to me? And why should I not speak to you?
-"
+lovely_loveseat_description = "Stranger, if you passing meet me and desire to speak to me, why should you not speak to me? And why should I not speak to you?\n"
 
 # Task 2
 lovely_loveseat_price = 254.00
