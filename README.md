@@ -11,4 +11,5 @@ This is a repository of all Python basic projects by me (lakshayhasija13). Guide
 - **Magic 8-Ball** (`magic_8_ball`) - A Magic 8-Ball simulator that randomly generates answers to yes/no questions.
 - **Physics Class** (`physics_class`) - A Python script that demonstrates physics calculations including temperature conversions (Fahrenheit/Celsius), force, energy, and work using functions.
 - **Sal's Shipping** (`sal_shipping`) - A Python script that calculates shipping costs for ground, premium ground, and drone shipping based on package weight.
+- **Scrabble Project** (`scrabble_project`) - A Python script that calculates Scrabble word scores using a letter-to-points dictionary, scoring individual words and computing total points per player.
 - **Thread Shed** (`thread_shed`) - A Python script that analyzes a thread shop's daily sales data using string manipulation, calculating total revenue and counting thread colors sold.
